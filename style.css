@@ -11,15 +11,12 @@ html{
 body {
     background-color: #050609;
     color: white;
-    background-image: url("background.png");
-    background-size: cover;
 }
 .header{
     width: 100%;
     height: 100vh;
     background-image: url("background.png");
     background-size: cover;
-    position: sticky;
 
 }
 
